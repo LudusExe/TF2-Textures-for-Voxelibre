@@ -4,7 +4,7 @@ Several mobs and items are retextured to resemble iconic TF2 classes, weapons, a
 ## Replaced Mobs
 
 - **Iron Golem** 
-- **Parrot Any Variant)** 
+- **Parrot (Any Variant)** 
 - **Skeleton**   
 - **Wolf** 
 - **Ghast**
@@ -15,8 +15,6 @@ Several mobs and items are retextured to resemble iconic TF2 classes, weapons, a
 - **Iron Pickaxe**
 - **Iron Shovel** 
 - **Dispenser** 
-- **Dropper**
-- **Furnace**
 
 ## Compatibility
 
