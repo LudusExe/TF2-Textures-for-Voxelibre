@@ -11,10 +11,21 @@ Several mobs and items are retextured to resemble iconic TF2 classes, weapons, a
  
 ## Replaced Items
 
-- **Totem of Undying**  
 - **Iron Pickaxe**
 - **Iron Shovel** 
+- **Iron Axe** 
+- **Totem of Undying**  
+- **Sherped Staff** 
+- **Identifier** 
+- **Bread** 
+- **Hamburger** 
+- **Bucket of Milk**
+
+## Replaced Blocks
+
 - **Dispenser** 
+- **Dropper**
+- **Furnace**
 
 ## Compatibility
 
